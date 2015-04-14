@@ -1,0 +1,22 @@
+{
+  "name": "redirector",
+  "version": "0.0.1",
+  "description": "sample server with redirect",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "1.0.0",
+    "express": "3.4.8",
+    "nedb":"0.11.1",    
+    "socket.io":"1.1.0"    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redirect",
+    "http"
+  ],
+  "author": "me",
+  "license": "Whatevs"
+}
